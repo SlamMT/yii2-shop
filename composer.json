@@ -1,12 +1,12 @@
 {
-    "name": "SlamMT/yii2-shop",
+    "name": "slam-mt/yii2-shop",
     "description": "yii2-shop it's a module for site shop backend",
     "keywords": ["yii2", "yii 2", "application", "backend", "crud", "shop", "module", "SlamMT"],
-    "homepage": "https://github.com/SlamMT/",
+    "homepage": "https://github.com/slam-mt/",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "source": "https://github.com/SlamMT/yii2-shop"
+        "source": "https://github.com/slam-mt/yii2-shop"
     },
     "authors": [
         {
@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SlamMT\\shop\\": ""
+            "slam-mt\\shop\\": ""
         }
     }
 }
